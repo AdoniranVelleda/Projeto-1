@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Prosto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&display=swap');
+
+.titulo{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: underline;
+    border-radius: 4px;
+    display: inline;
+}
+.titulo2{
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: underline;
+    border-radius: 4px;
+    display: inline;
+}
+
+.divTitulo{
+    margin-top: 10px;
+    text-align: center;
+}
+.quadrado{
+    font-size: x-large;
+    font-family: 'Nunito Sans', sans-serif;
+}
+body{
+    background: linear-gradient(to right,#ff0000c4, rgba(0, 68, 255, 0.884));
+}
+
+
+
+

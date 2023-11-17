@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital@1&family=Oswald&family=Tilt+Warp&display=swap');
+*{
+    font-family: 'Kanit', sans-serif;
+}
+.aluga button{
+    color: black;
+    
+}
+.descricao{
+    font-family: 'Nunito Sans', sans-serif;
+}
+form{
+    font-size: 30px;
+}
+form input{
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(to right,#42b2fd, #a143c9);
+}
+.tituloFilmes{
+    font-size: 37px;
+    font-family: 'Tilt Warp', sans-serif;
+    
+}
+.nav-link{
+    font-family: 'Tilt Warp', sans-serif;
+    color: rgba(255, 255, 255, 0.863);
+}
+.serie{
+    text-align: center;
+    display: grid;
+}
+
+.tituloTema{
+    text-align: center;
+}
+
+
+
+
+
+
